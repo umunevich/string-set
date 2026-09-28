@@ -1,0 +1,5 @@
+bin/
+.venv/
+data/
+*.expected
+__pycache__/
